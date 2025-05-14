@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Booksiy1
 glad to study!wuwuwuwu
 
-<!---
-Booksiy1/Booksiy1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+仅用于自学
+///////////
+技术框架
